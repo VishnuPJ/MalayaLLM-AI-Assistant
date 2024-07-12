@@ -32,5 +32,9 @@ Gemma-7B trained model is here :[MalayaLLM:Gemma-7B](https://huggingface.co/coll
 
 ##  Demo Video
 
-<video controls autoplay src=""></video>
+<video controls autoplay src="https://github.com/user-attachments/assets/72d0f1b8-d033-4920-8689-6a6b82976d02"></video>
+
+
+
+
 
