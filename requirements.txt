@@ -1,0 +1,6 @@
+torch
+librosa
+numpy
+sounddevice
+transformers
+sseclient-py
