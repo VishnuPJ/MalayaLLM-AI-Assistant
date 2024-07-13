@@ -1,3 +1,15 @@
+# MalayaLLM(മലയാളം)-AI-Assistant
+<img src="https://github.com/user-attachments/assets/baeeaedf-27af-4f4e-a003-e16757f87377" alt="MalayaLLM Image" width="300" height="auto">
+
+Meet “Naadan Malayalam Jarvis”!
+
+ * Speak or type your queries in Malayalam, and it’ll respond promptly.
+ * Malayalam ASR model used : [Bajiyo/w2v-bert-2.0-nonstudio_and_studioRecords_final](https://huggingface.co/Bajiyo/w2v-bert-2.0-nonstudio_and_studioRecords_final).
+ * ASR model paired with [MalayaLLM](https://huggingface.co/collections/VishnuPJ/malayallm-malayalam-gemma-2-9b-6689843413da7de7c57b5b8c),effortlessly transcribes and replies to audio in Malayalam.
+ * For the demo, I used a quantized version of the model via llama.cpp.
+
+While still in development, this assistant demonstrates the potential of localized AI technology for Indian languages.
+
 ## Steps to Run
 
 1) Install llama.cpp and run llama-server ( Use the following instructions)
