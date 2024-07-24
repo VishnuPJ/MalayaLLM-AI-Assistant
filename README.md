@@ -13,7 +13,7 @@ While still in development, this assistant demonstrates the potential of localiz
 ## Steps to Run
 
 1) Install llama.cpp and run llama-server ( Use the following instructions)
-2) Install requirements.txt and run Malayalalm_AI_Assistant.py
+2) Install requirements.txt and run Malayalam_AI_Assistant.py
    
 ## How to run GGUF
 
